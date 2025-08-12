@@ -32,7 +32,7 @@ A personalized travel itinerary generator that prompts users for destination, da
 
 ---
 
-### 🧠 [PrePersona (DataInsightPro)](https://github.com/mxyxnk518/Projects/tree/main/DataInsightPro)
+### 🧠 [PrePersona (DataInsightPro)](https://github.com/mxyxnk518/Projects/tree/main/PrePersona)
 A data analytics dashboard for behavioral profiling. PrePersona visualizes complex datasets to uncover actionable psychological insights based on survey inputs and user patterns.
 
 **Technologies Used:**  
